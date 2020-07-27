@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Janique-ka 👋🏾
 
-🌱 I’m currently learning React
+👩🏾‍💻 I founded Women in Tech Caribbean 
+🌱 I’m currently learning Reactjs 
+🔭 I’m currently working on caricovidmap.com
 
 
 <!--
