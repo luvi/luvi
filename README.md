@@ -7,8 +7,16 @@
 🔭 I’m currently working on caricovidmap.com </br>
 
 --- 
+## Connect with me 
+
+<a href="https://www.linkedin.com/in/janiquekajohn/">
+  <img align="left" alt="Janique-ka on Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 <a href="http://twitter.com/JaniquekaJohn">
-  <img align="left" alt="Janique-ka's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Janique-ka on Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://instagram.com/janiquekajohn/">
+  <img align="left" alt="Janique-ka on Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
 
