@@ -1,9 +1,18 @@
 ### Hi there, I'm Janique-ka 👋🏾
 
-👩🏾‍💻 I founded Women in Tech Caribbean 
-🌱 I’m currently learning Reactjs 
-🔭 I’m currently working on caricovidmap.com
+<p align="center">
 
+👩🏾‍💻 I founded [Women in Tech Caribbean](http://womenintechcaribbean.com/)  </br>
+🌱 I’m currently learning Reactjs </br> 
+🔭 I’m currently working on caricovidmap.com </br>
+
+--- 
+
+</p>
+
+ <a href="http://twitter.com/JaniquekaJohn">
+    <img src="http://i.imgur.com/tXSoThF.png"/>
+  </a>
 
 <!--
 **luvi/luvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
