@@ -3,6 +3,7 @@
 <p align="center">
 
 👩🏾‍💻 I founded [Women in Tech Caribbean](http://womenintechcaribbean.com/)  </br>
+❤️ I love coding </br> 
 🌱 I’m currently learning Reactjs </br> 
 🔭 I’m currently working on caricovidmap.com </br>
 
