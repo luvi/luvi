@@ -7,12 +7,12 @@
 🔭 I’m currently working on caricovidmap.com </br>
 
 --- 
-
+<a href="http://twitter.com/JaniquekaJohn">
+  <img align="left" alt="Janique-ka's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 </p>
 
- <a href="http://twitter.com/JaniquekaJohn">
-    <img src="http://i.imgur.com/tXSoThF.png"/>
-  </a>
+
 
 <!--
 **luvi/luvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
