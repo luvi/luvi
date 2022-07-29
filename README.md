@@ -2,9 +2,13 @@
 
 <p align="center">
 
-👩🏾‍💻 I founded [Women in Tech Caribbean](http://womenintechcaribbean.com/)  </br>
-❤️ I love coding </br> 
-🌱 I’m currently working with Reactjs </br> 
+👩🏾‍💻 Founder [Women in Tech Caribbean](http://womenintechcaribbean.com/)  </br>
+❤️ Coding + Problem Solving Lover </br> 
+☀️ Day job: React, Typescript </br> 
+🌘 For fun: Firebase, Nodejs, Express </br> 
+🛠 Building [Spaces Search](https://developer.twitter.com/en/blog/success-stories/spaces-search) </br> 
+🎙 Twitter Developer Insider [more](https://developer.twitter.com/en/community/insiders)
+
 
 --- 
 ## Connect with me 
