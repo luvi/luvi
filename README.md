@@ -6,7 +6,7 @@
 ❤️ Coding + Problem Solving Lover </br> 
 ☀️ Day job: React, Typescript </br> 
 🌘 For fun: Firebase, Nodejs, Express </br> 
-🛠 Building [Cactos]([https://developer.twitter.com/en/blog/success-stories/spaces-search](https://apps.apple.com/us/app/cactos/id1489034124?itscg=30200&itsct=apps_box_link&mttnsubad=1489034124)) </br> 
+🛠 Building [Cactos](https://developer.twitter.com/en/blog/success-stories/spaces-search](https://apps.apple.com/us/app/cactos/id1489034124?itscg=30200&itsct=apps_box_link&mttnsubad=1489034124)) </br> 
 🎙 Twitter Developer Insider [more](https://developer.twitter.com/en/community/insiders)
 
 
